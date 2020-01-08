@@ -1,2 +1,2 @@
 # kuritsa
-ENCMP Work
+Work for my ENCMP100 class
